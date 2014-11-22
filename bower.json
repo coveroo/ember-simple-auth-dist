@@ -2,7 +2,7 @@
   "name": "ember-simple-auth-village",
   "version": "0.7.2",
   "main": [
-    "dist/bower/*.js",
+    "dist/bower/*.js"
   ],
   "dependencies": {
     "ember": ">=1.2"
